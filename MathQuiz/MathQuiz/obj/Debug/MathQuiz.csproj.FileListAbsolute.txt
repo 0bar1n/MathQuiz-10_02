@@ -1,0 +1,10 @@
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+D:\2 курс\4 семестр\дз\ооп\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
